@@ -17,8 +17,8 @@
 }
 
 .feature {
-    display: grid;
-    grid-template-columns: repeat(2,auto);
+    display: flex;
+    Justify-content: space-evenly;
     gap: 3em;
     margin-top: 2em;
 }
