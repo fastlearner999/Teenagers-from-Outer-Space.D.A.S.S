@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins&family=Rubik+Moonrocks&display=swap');
+*{
+    text-shadow: 1px 1px 1px black;
+    color: #E0AF49;
+}
+#type{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4em;
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
+
+body{
+    font-family: 'Permanent Marker', cursive;
+    background: #9597D3;
+    color: #E0AF49;
+    text-shadow: 1px 1px 1px black;
+}
+nav{
+    text-shadow: 1px 1px 1px black;
+    color: #E0AF49;
+}
+.navbar-brand{
+    text-shadow: 1px 1px 1px black;
+    color: #E0AF49;
+}
+.navbar{
+    text-shadow: 1px 1px 1px black;
+    color: #E0AF49;
+} 
+
+.nav-items{
+    text-shadow: 1px 1px 1px black;
+    color: #E0AF49;
+}
+
+.kmt{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3em;
+    
+}
+.accordion .accordion-flush{
+    text-shadow: 1px 1px 1px black;
+    color: #E0AF49;
+}
+.accordion-button{
+    text-shadow: 1px 1px 1px black;
+    color: #E0AF49;
+}
+footer{
+    margin-top: 3em;
+}
