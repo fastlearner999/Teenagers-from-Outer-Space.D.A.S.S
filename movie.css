@@ -24,7 +24,7 @@ nav{
     text-shadow: 1px 1px 1px black;
     color: #E0AF49;
 }
-.navbar{
+.navbar, .nav-link{
     text-shadow: 1px 1px 1px black;
     color: #E0AF49;
 } 
